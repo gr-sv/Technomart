@@ -205,8 +205,28 @@
 
 					<fieldset class="catalog-filter-group">
 						<legend class="catalog-filter-title">Питание</legend>
+						<ul class="catalog-filter-list">
+							<li class="catalog-filter-item">
+								<label class="control">
+									<input class="control-input" type="radio" name="power" value="battery" checked>
+									Аккумуляторные
+								</label>
+							</li>
+							<li class="catalog-filter-item">
+								<label class="control">
+									<input class="control-input" type="radio" name="power" value="mains">
+									Сетевые
+								</label>
+							</li>
+						</ul>
 					</fieldset>
 					<button class="catalog-filter-button button" type="submit">Показать</button>
+
+					<select class="catalog-filter-select" name="sorting">
+						<option value="low-price">Сначала дешевые</option>
+						<option value="high-price">Сначала дорогие</option>
+						<option value="popular">Популярные</option>
+					</select>
 				</form>
 			</section>
         </main>
