@@ -244,3 +244,30 @@ body {
     color: #293449;
     background-color: #FFFFFF;
 }
+
+/* Product-cards */
+
+.product-card-title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.product-card-old-price {
+    color: #A9A9A9;
+}
+
+.product-card-new-price {
+    color: #FFFFFF;
+    background-color: #EE3643;
+}
