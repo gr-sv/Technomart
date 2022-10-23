@@ -94,3 +94,21 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+/* Navigation */
+
+.navigation-link {
+    color: #FFFFFF;
+    background-color: #3D546F;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navigation-order {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    background-color: #63A63E;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
