@@ -34,5 +34,37 @@ body {
     font-family: "PT Sans", "Arial", sans-serif;
     font-size: 16px;
     line-height: 24px;
+    color: #293449;
     background-color: #FFFFFF;
+}
+
+/* Header */
+
+.page-header {
+    background-color: #F3F7F9;
+}
+
+.header-contacts-shop {
+    font-style: italic;
+    font-size: 14px;
+    line-height: 18px;
+    color: #EE3643;
+}
+
+.header-contacts-address {
+    font-style: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #32425C;
+}
+
+.header-contacts-phone {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: #293449;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
