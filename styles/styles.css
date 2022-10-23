@@ -155,3 +155,45 @@ body {
 .promo-green .promo-link {
     background-color: #8ED78F;
 }
+
+/* Slider */
+
+.promo-slider-one {
+    color: #FFFFFF;
+    background-color: #000000;
+    background-image: url(../images/main/slider-drills.jpeg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.promo-slider-two {
+    color: #FFFFFF;
+    background-color: #000000;
+    background-image: url(../images/main/slider-punchers.jpeg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.slider-title {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+}
+
+.slider-slogan {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.slider-link {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background-color: #EE3643;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
