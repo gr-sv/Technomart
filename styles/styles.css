@@ -197,3 +197,30 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+/* Catalog */
+
+.catalog-title {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+}
+
+/* Catalog-filter */
+
+.catalog-filter-group {
+    color: #000000;
+}
+
+.catalog-filter-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.filter-control {
+    font-size: 14px;
+    line-height: 18px;
+}
