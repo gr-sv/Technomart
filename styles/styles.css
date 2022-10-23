@@ -116,3 +116,42 @@ body {
 /* Main */
 
 /* Promo */
+
+.promo-title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.promo-link {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.promo-yellow,
+.promo-yellow .promo-link {
+    background-color: #FFBF47;
+}
+
+.promo-blue,
+.promo-blue .promo-link {
+    background-color: #3BBCE3;
+}
+
+.promo-purple,
+.promo-purple .promo-link {
+    background-color: #DC91D8;
+}
+
+.promo-green,
+.promo-green .promo-link {
+    background-color: #8ED78F;
+}
