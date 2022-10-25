@@ -393,3 +393,10 @@ body {
     font-size: 16px;
     text-align: right;
 }
+
+.footer-feedback-email {
+    color: #FFD180;
+    background-color: #32425C;
+    text-decoration: none;
+    text-align: center;
+}
