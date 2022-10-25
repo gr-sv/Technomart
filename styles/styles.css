@@ -271,3 +271,33 @@ body {
     color: #FFFFFF;
     background-color: #EE3643;
 }
+
+/* Pagination */
+
+.pagination-link {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 16px;
+	color: #FFFFFF;
+	background-color: #3D546F;
+	text-decoration: none;
+	text-align: center;
+    text-transform: uppercase;
+}
+
+.pagination-link-current {
+    color: #3D546F;
+	background-color: #FFFFFF;
+}
+
+.pagination-button {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background-color: #EE3643;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
