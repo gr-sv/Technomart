@@ -400,3 +400,16 @@ body {
     text-decoration: none;
     text-align: center;
 }
+
+.feedback-email-field {
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    color: #BDBDBD;
+    background-color: #FFFFFF;
+}
+
+.feedback-button {
+    color: #FFFFFF;
+    background-color: #63A63E;
+}
