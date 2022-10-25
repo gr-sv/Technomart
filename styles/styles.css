@@ -366,3 +366,30 @@ body {
     line-height: 42px;
     text-transform: uppercase;
 }
+
+/* Footer */
+
+.page-footer {
+    color: #FFFFFF;
+    background-color: #32425C;
+}
+
+/* Footer-contacts */
+
+.footer-contacts {
+    font-style: normal;
+    color: #F3F7F9;
+}
+
+.footer-contacts-phone {
+    color: #F3F7F9;
+    text-decoration: none;
+}
+
+/* Footer-feedback */
+
+.footer-feedback-title {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+}
