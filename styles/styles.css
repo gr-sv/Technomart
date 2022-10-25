@@ -336,3 +336,24 @@ body {
 .services-text {
     color: #000000;
 }
+
+/* About us */
+
+.about-us-title {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+}
+
+.about-us-link {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background-color: #EE3643;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
