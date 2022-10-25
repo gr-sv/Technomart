@@ -357,3 +357,12 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+/* Contacts */
+
+.contacts-title {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+}
