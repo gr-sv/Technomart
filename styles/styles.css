@@ -413,3 +413,17 @@ body {
     color: #FFFFFF;
     background-color: #63A63E;
 }
+
+/* Footer-copyright */
+
+.copyright-text {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.copyright-link {
+    color: #FFD180;
+    background-color: #293449;
+    text-decoration: none;
+    text-align: center;
+}
