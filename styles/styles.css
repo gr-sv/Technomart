@@ -301,3 +301,38 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+/* Sevices */
+
+.services {
+    background-color: #F3F7F9;
+}
+
+.services-title {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.services-description {
+    font-size: 18px;
+    text-align: center;
+}
+
+.services-item {
+    background-color: #FFFFFF;
+}
+
+.services-item-title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #32425C;
+    text-transform: uppercase;
+}
+
+.services-text {
+    color: #000000;
+}
